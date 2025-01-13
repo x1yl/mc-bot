@@ -24,7 +24,7 @@ A Discord bot for managing a Minecraft server through Discord with SSH integrati
 
 2. **Installation**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/x1yl/mc-bot.git
    cd mc-bot
    yarn install
    ```
@@ -67,7 +67,3 @@ A Discord bot for managing a Minecraft server through Discord with SSH integrati
 
 ### User Commands
 - `/verify <username>` - Link Minecraft account to Discord and whitelist
-
-## Development
-
-Run the bot in development mode with auto-restart:
