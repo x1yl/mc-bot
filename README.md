@@ -30,7 +30,7 @@ A Discord bot for managing a Minecraft server through Discord with SSH integrati
    ```
 
 3. **Configuration**
-   Create a `config.json` file:
+   Rename `config.json.example` to `config.json` and fill it out:
    ```json
    {
      "token": "YOUR_DISCORD_BOT_TOKEN",
@@ -44,6 +44,7 @@ A Discord bot for managing a Minecraft server through Discord with SSH integrati
      "staffRole": "STAFF_ROLE_ID"
    }
    ```
+   Rename `users.json.example` to `users.json`
 
 4. **Deploy Commands**
    ```bash
