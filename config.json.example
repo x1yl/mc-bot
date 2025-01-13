@@ -1,0 +1,11 @@
+{
+  "token": "",
+  "clientId": "",
+  "guildId": "",
+  "ssh": {
+    "host": "",
+    "username": "",
+    "privateKey": ""
+  },
+  "staffRole": ""
+}
